@@ -1,4 +1,17 @@
 body {
-  background-color: gray;
-  color: white;
+  color: gray;
 }
+
+.heading {
+  text-align: center;
+  font-family: calibri;
+}
+
+.program {
+  font-family: calibri;
+}
+
+.description {
+  font-family: calibri;
+}
+
