@@ -4,6 +4,7 @@ body {
 
 .blue {
   color: blue;
+  border: 5px dotted blue;
 }
 
 .red {
