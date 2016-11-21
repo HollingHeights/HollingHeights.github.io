@@ -4,17 +4,29 @@ body {
 
 .blue {
   color: blue;
-  border: 5px dotted blue;
+  border: 5px solid blue;
 }
 
 .red {
   color: red;
+  border: 5px solid red;
 }
     
 .green {
   color: green;
+  border: 5px solid green;
   }
 
 h1 {
   color: blue;
+  border: 5px solid blue;
+}
+
+.circle {
+  width: 500px;
+  height; 500px;
+  border-radius: 50%;
+  font-size: 50px;
+  line-height: 500px;
+  text-align: center;
 }
