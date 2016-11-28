@@ -14,11 +14,11 @@ body {
     
 .green {
   color: green;
-  border: 5px solid green;
-  }
-
-h1 {
-  color: blue;
+  border: 5px solid green;  
+}
+ 
+ h1 {
+   color: gray;
   border: 5px solid blue;
 }
 
