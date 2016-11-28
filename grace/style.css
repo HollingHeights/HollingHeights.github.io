@@ -1,5 +1,6 @@
 body {
-  color: gray;
+  background-color: blue;
+  border: 10px blue;
 }
 
 .heading {
