@@ -8,8 +8,14 @@ body {
   font-family: calibri;
 }
 
+img {
+  margin: auto;
+}
+
 .program {
   font-family: calibri;
+  text-align: center;
+  text-decoration: underline;
 }
 
 .description {
