@@ -1,3 +1,6 @@
-selector {
-  property: value;
-}
+body{background-color:light blue;
+     color:black;
+     border:15px green;
+     text-align:right;
+     font-family:calibri;
+     20px}
