@@ -1,8 +1,17 @@
 body {
   background-picture:"http://flikie.s3.amazonaws.com/ImageStorage/a7/a7aa2f4eb7b1481b983de2af914183f5.jpg";
+  font-size: 25px;
 }
 
-.paragraph1color:#ceb814}
-.paragraph2color:#ed106c}
-.paragraph3color:#00f708}
-.paragraph4color:#87ffe9}
+.paragraph1 {
+  color:#ceb814;
+}
+.paragraph2{
+  color:#ed106c;
+}
+.paragraph3 {
+  color:#00f708;
+}
+.paragraph4 {
+  color:#87ffe9
+}
