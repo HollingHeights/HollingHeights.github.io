@@ -2,11 +2,21 @@ body {
   background: linear-gradient(
   to bottom,
   #000000,
-  #000000 50%,
-  #0000ff 50%,
   #0000ff
 );
   font-size: 25px;
+}
+
+img {
+  width: 300px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
 }
 
 .paragraph1 {
