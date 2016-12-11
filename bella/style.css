@@ -1,6 +1,12 @@
-body{background-color:light blue;
+body{
+     background-color:light-blue;
      color:black;
      border:15px green;
      text-align:right;
      font-family:calibri;
-     20px}
+     font-size: 20px
+}
+
+img {
+     width: 300px;
+}
