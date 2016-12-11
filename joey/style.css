@@ -1,4 +1,6 @@
-backround color: cyan;
-color: black;
-text-allign: center;
-font-family: Aprikas Regular 
+body {
+  backround-color: cyan;
+  color: black;
+  text-align: center;
+  font-family: Aprikas Regular;
+}
