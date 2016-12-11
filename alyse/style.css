@@ -21,3 +21,27 @@ body {
    color: gray;
   border: 5px solid blue;
 }
+
+img {
+  display: inline-block;
+}
+
+.circle {
+  background-color: red;
+  border-radius: 50%;
+  color: black;
+  display: table;
+  height: 300px;
+  font-size: 1.5em;
+  width: auto;
+  margin: 0 auto;
+}
+
+.circle span {
+  display: table-cell;
+  vertical-align: middle;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  padding: 0 15px;
+}
