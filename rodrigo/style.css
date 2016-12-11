@@ -1,5 +1,11 @@
 body {
-  background-picture:"http://flikie.s3.amazonaws.com/ImageStorage/a7/a7aa2f4eb7b1481b983de2af914183f5.jpg";
+  background: linear-gradient(
+  to bottom,
+  #000000,
+  #000000 50%,
+  #0000ff 50%,
+  #0000ff
+);
   font-size: 25px;
 }
 
