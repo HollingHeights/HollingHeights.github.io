@@ -1,4 +1,8 @@
 h1 {
-  font: font-family:personality demo;
   color: orange
+}
+
+img {
+  width: 300px;
+  display: inline-block;
 }
