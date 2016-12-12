@@ -3,6 +3,10 @@ body{
   background-color: blue;
 }
 
+h1 {
+   border: 10px green;
+}
+
 img {
   width: 700px;
 }
